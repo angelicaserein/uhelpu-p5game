@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <a href="https://uob-comsm0166.github.io/2026-group-13/">
+  <a href="https://angelicaserein.github.io/uhelpu-p5game/">
     <img src="./assets/click-to-play.png" width="800">
     <br>
   </a>
@@ -156,7 +156,7 @@ Currently features 12 core levels (7 Easy, 4 Hard, 1 Special) plus 10 Legacy lev
 </div>
 
 <div align="center">
-  <a href="https://uob-comsm0166.github.io/2026-group-13/">
+  <a href="https://angelicaserein.github.io/uhelpu-p5game/">
     <img src="./assets/click-to-play.png" width="800">
     <br>
   </a>
