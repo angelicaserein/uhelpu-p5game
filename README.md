@@ -109,7 +109,7 @@ Currently features 12 core levels (7 Easy, 4 Hard, 1 Special) plus 10 Legacy lev
   <h3>🗝️Official Walkthrough Guide</h3>
   <p><i>I’ve included multiple solutions for each level, so I recommend trying them yourself first!</i></p>
   <p><i>More solutions walkthrough videos are coming soon...</i></p>
-  <a href="https://angelicaserein.github.io/UhelpU-Walkthrough/">
+  <a href="https://uhelpu.github.io/UhelpU-Walkthrough/">
     <img src="./assets/website/walkthrough-preview.png" width="700">
   </a>
   <br><br>
